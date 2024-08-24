@@ -1,4 +1,4 @@
-StudentID,Gender,Age,StudyHoursPerWeek,AttendanceRate,GPA,Major,PartTimeJob,Active In Sports and or Games
+StudentID,Gender,Age,StudyHoursPerWeek,AttendanceRate,GPA,Major,PartTimeJob,Plays Sports and or Games
 1,Male,24,37,90.75,3.47,Arts,Yes,No
 2,Female,22,37,74.9,2.32,Education,No,No
 3,Male,22,10,53.36,2.38,Business,No,No
